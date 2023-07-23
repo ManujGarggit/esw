@@ -1,6 +1,6 @@
-# ESW Project
-
 ## Remote Labs - DC Motor
+
+- Remote labs are web-based platforms that enable users to remotely access and interact with real laboratory equipment and experiments from a distance.
 
 <br>
 
@@ -29,11 +29,12 @@
 <br>
 
 - Dashboard:
-    - Steps for performing the experimenting are mentioned on the dashboard.
+    - Steps for performing the experimenting are mentioned in the dashboard.
     - A 10 minute session timer is there in the dashboard, after which the user will automatically get logged out.
     - Two or more users cannot use the hardware setup for the same experiment.
     - The user can give the voltage input for the dc motor by a slider.
     - The resulting rpm value and graph between voltage and rpm will be plotted.
+    - The user can watch the live stream locally.
     - A user can watch the live stream locally.
 
 
