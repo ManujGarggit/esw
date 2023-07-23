@@ -2,8 +2,6 @@
 
 - Remote labs are web-based platforms that enable users to remotely access and interact with real laboratory equipment and experiments from a distance.
 
-<br>
-
 ### Team :
 - Nikunj Garg - 2021101021
 - Manuj Garg - 2021101047
